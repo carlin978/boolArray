@@ -7,7 +7,7 @@ This file allows you to easily create a conditional array where you can run an i
 To add to your project place the script tag before your own script.
 
 ```
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/carlin978/boolArray/boolArray.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/carlin978/boolArray@main/boolArray.min.js"></script>
 ```
 
 ### Basic Syntax
