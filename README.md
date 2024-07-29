@@ -1,3 +1,6 @@
+>[!WARNING]
+>This code is very bad and unsafe, don't use it.
+
 # Boolean Array
 
 A simple file to use a few functions and a **custom Array** based on primitive data types.
